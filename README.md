@@ -25,7 +25,7 @@ The system pipeline operates as follows:
 4. **License plate character recognition**: Cropped license plates are passed through an OCR model to recognize and extract characters.
 5. **Counting the number of vehicles using ByteTrack**: The ByteTrack algorithm tracks and counts vehicles over time.
 ---
-![image](https://github.com/user-attachments/assets/62740fc2-3952-4b7a-b6dc-2df3ad247666)
+![Image 1](assets/img1.png)
 
 # Status
 - Vehicle and license plate detection: Completed
@@ -50,19 +50,22 @@ The repository is organized into the following directories:
 The following artifacts are available for download from Google Drive. These include the model weights used for vehicle detection, license plate detection, and license plate character recognition:
 - [link](https://drive.google.com/drive/folders/1zhybja68Wg5LCsr8ejSa1NAcUmcEAvBd?usp=sharing)
 # Results
-![FireShot Capture 011 - app - localhost](https://github.com/user-attachments/assets/f48b04f0-69d4-4c30-a6db-b05463f54d99)
+![Image 2](assets/img2.png)
 ---
-![FireShot Capture 012 - app - localhost](https://github.com/user-attachments/assets/b8d1b4ea-7925-4a2d-9e88-17398271cd1f)
+![Image 3](assets/img3.png)
 ---
-![output-5_o0ADGO8O](https://github.com/user-attachments/assets/45a55ef3-5365-434f-a570-6f3d8f315658)
+![Image 4](assets/img4.gif)
 ---
 ## Metrics Used
 ## Evaluation Results
 ### yolov8 vehicle and license plate detection results
-![vehicle and license plate detection using yolov8](https://github.com/user-attachments/assets/a1a5a9f3-ad79-4bcd-b12b-c766c7c950ec)
-![image](https://github.com/user-attachments/assets/d8326cc5-98cc-4db7-bcc1-aa669f0875e2)
+![Image 5](assets/img5.png)
+![Image 6](assets/img6.png)
+
 ---
 ### yolov8 license plate text detection results
-![license plate text detection using yolov8](https://github.com/user-attachments/assets/20796a99-2bd3-4237-8841-a568251c9988)
-![image](https://github.com/user-attachments/assets/9d9e3e53-8a01-4395-a1d8-f67e99d2e7fd)
+![Image 7](assets/img7.png)
+
+![Image 8](assets/img8.png)
+
 
